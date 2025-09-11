@@ -56,7 +56,7 @@ Git уже был ранее установлен
 <img width="576" height="392" alt="image" src="https://github.com/user-attachments/assets/381585ff-dd17-45c4-b447-4401aa645561" />
 
 ### Вывод
-Командой git remote add origin подключил локальный репозиторий к удаленноому.
+Подключил локальный репозиторий к удаленноому
 ## 2.7. Ветвление
 <img width="580" height="393" alt="image" src="https://github.com/user-attachments/assets/7db29f52-b0b7-448b-b6c5-c5f2123263d4" />
 
@@ -66,12 +66,12 @@ Git уже был ранее установлен
 <img width="585" height="378" alt="image" src="https://github.com/user-attachments/assets/fb4a605d-04d5-49f2-a61d-01fb9f5d6bdc" />
 
 ### Вывод
-Познакомился с git fetch для синхронизации изменений
+Узнал о git fetch для синхронизации изменений
 ## 2.9. Удаление файлов, веток, локальных и удалённых репозиториев
 <img width="582" height="395" alt="image" src="https://github.com/user-attachments/assets/c988e6ba-5d88-45d7-a09d-b19d24b15c2c" />
 
 ### Вывод
-Тестово удалил файл и ветку
+Тестово удалил ветку, файл
 ## 2.10. Отслеживание изменений в коммитах
 <img width="581" height="397" alt="image" src="https://github.com/user-attachments/assets/6bf90d91-9398-4de0-a9db-146a80c9bb6e" />
 
@@ -81,7 +81,7 @@ Git уже был ранее установлен
 <img width="582" height="397" alt="image" src="https://github.com/user-attachments/assets/4ed43ea5-8095-4355-9ebe-6f74b88f8af7" />
 
 ### Вывод
-Вернул файл к предыдущему состоянию
+Вернул файл к прошлому состоянию
 ## 2.12. Возвращение к предыдущему коммиту
 <img width="571" height="397" alt="image" src="https://github.com/user-attachments/assets/a36d8ffc-289e-4a7f-b510-30d23995665e" />
 
@@ -91,11 +91,11 @@ Git уже был ранее установлен
 <img width="571" height="397" alt="image" src="https://github.com/user-attachments/assets/e0406c36-f80c-4108-95be-4cf10db54151" />
 
 ### Вывод
-Изменил коммит
+Изменил комит
 ## 2.14. Разрешение конфликтов при слиянии
 <img width="571" height="397" alt="image" src="https://github.com/user-attachments/assets/e0406c36-f80c-4108-95be-4cf10db54151" />
 ### Вывод
-Смоделировал конфликтную ситуацию при слиянии
+Представил конфликтную ситуацию при слиянии
 ## 2.15. Настройка .gitignore
 <img width="907" height="168" alt="image" src="https://github.com/user-attachments/assets/0f9bff24-d378-4d6d-bb07-16d01f94c842" />
 
