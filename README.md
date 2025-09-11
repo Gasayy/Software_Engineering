@@ -28,14 +28,17 @@
 
 ## 2.1. Установка
 <img width="581" height="394" alt="image" src="https://github.com/user-attachments/assets/d9e095c1-1e58-4425-84af-ac93c869375b" />
+
 ### Вывод
 Git уже был ранее установлен
 ## 2.2. Настройка
 <img width="584" height="377" alt="image" src="https://github.com/user-attachments/assets/ae44baae-c13f-425f-b408-2425edb2f1cf" />
+
 ### Вывод
 Настроил Git
 ## 2.3. Создание нового репозитория
 <img width="581" height="384" alt="image" src="https://github.com/user-attachments/assets/60d07d69-4bd4-4d3c-86f7-8165ed71752e" />
+
 
 ### Вывод
 Создал репозиторий локально
