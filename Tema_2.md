@@ -76,7 +76,7 @@ print(one + two)
 ```
 ### Результат.
 
-Нет в планах только 50% био ценника по идее закажи<img width="757" height="581" alt="image" src="https://github.com/user-attachments/assets/3d24c3cf-2f81-4b0f-b022-4d168f2c2300" />
+<img width="757" height="581" alt="image" src="https://github.com/user-attachments/assets/3d24c3cf-2f81-4b0f-b022-4d168f2c2300" />
 
 
 ### Выводы
