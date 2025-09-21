@@ -234,7 +234,7 @@ a, b, c = 1, 2, 3; print(a, b, c)
 ```
 ### Результат.
 
-![Меню](https://github.com/nikoreon5/SoftwareEngineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2.png)
+<img width="787" height="633" alt="image" src="https://github.com/user-attachments/assets/81e6b4e1-8b2d-4eaf-981d-310c9439edca" />
 
 ### Выводы
 
