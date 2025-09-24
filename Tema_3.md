@@ -1,4 +1,4 @@
-<img width="769" height="635" alt="image" src="https://github.com/user-attachments/assets/60f2aa9c-d569-4e28-966e-c95e27d2b28a" /><img width="769" height="635" alt="image" src="https://github.com/user-attachments/assets/16b2099a-395d-4577-a3b2-8266d3613a71" /><img width="782" height="566" alt="image" src="https://github.com/user-attachments/assets/bde3b1f7-9cfb-4b76-a248-dabb2b7a4ba4" /><img width="780" height="541" alt="image" src="https://github.com/user-attachments/assets/2b18a468-9291-4929-88d5-abfa0d1ada96" /># Тема 3. Операторы, условия, циклы
+Тема 3. Операторы, условия, циклы
 Отчет по Теме #3 выполнил:
 - Кинев Дмитрий Денисович
 - ПИЭ-23-1
